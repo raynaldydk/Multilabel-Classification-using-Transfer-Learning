@@ -1,6 +1,14 @@
 # Multilabel-Classification-using-Transfer-Learning
-Create a multilabel classification model using transfer learning from pretrained MobileNetV2
+* Create a multilabel classification model using transfer learning from pre-trained MobileNetV2
+* Adapting pre-trained model to our dataset
+* Fine tuning the model to get the best result
 
+## Resource
+* Python
+* Google Collab
+* Packages: torchvision, jcopdl, matplotlib, numpy, gdown
+* MobileNetV2
+ 
 ## Train
 ![panorama before tune](https://user-images.githubusercontent.com/96482347/155840519-5a1df8d1-5bd1-405f-8a39-db1c9ec45df4.png)
 
