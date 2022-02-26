@@ -1,7 +1,10 @@
 # Multilabel-Classification-using-Transfer-Learning
+
+## Overview
 * Create a multilabel classification model using transfer learning from pre-trained MobileNetV2
 * Adapting pre-trained model to our dataset
 * Fine tuning the model to get the best result
+* Sanity check
 
 ## Resource
 * Python
